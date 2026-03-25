@@ -3,6 +3,8 @@ This is the repository for the LinkedIn Learning course `Python for Data Science
 
 ![lil-thumbnail-url]
 
+## Course Description
+
 <p>If you are a working professional who wants to use business data to make improved decisions through predictive analytics, this course can help you. Lillian Pierson—engineer, CEO, and the head of product at Data-Mania—guides you through a robust combination of basic data science coding experience, demonstrations, challenges, solutions, and exercises that you can quickly apply in customized data analyses and analytics projects. Learn best practices for data cleaning, data visualization, data analysis, and Python programming.</p>
 
 <p>By the end of the course, you will be able to use Python to:
@@ -29,4 +31,3 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2-revision-2024-q2
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFegskomg_xPw/learning-public-crop_675_1200/0/1721845430135?e=2147483647&v=beta&t=eost0jwbAicWxkiWy0YOLH9Mb64NS8u0Hft1SCMN-No
-
